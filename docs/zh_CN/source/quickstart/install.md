@@ -21,7 +21,7 @@ mkdir -pv /root/.pip \
 ```
 
 ```shell
-pip install tinyms==0.3.0
+pip install tinyms==0.3.1
 ```
 
 ### Docker
